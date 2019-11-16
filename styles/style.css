@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+.style1 {color: #FFFFFF}
+#mysatu {
+		background-color:#9168b3;
+		color:#FFFFFF;
+		margin-right:80px;
+		padding:5px;
+		margin-bottom:20px;
+	
+			
+		}
+#mydua {
+		background-color:#a8b368 ;
+		color:#FFFFFF;
+		margin-left:85px;
+		padding:5px;
+		margin-bottom:20px;
+		}
+#mytiga {background-color:#b36c68;
+		color:#FFFFFF;
+		margin-right:80px;
+		padding:5px;
+		margin-bottom:20px;
+	}
+#myempat {background-color:#636363;
+		color:#FFFFFF;
+		margin-left:85px;
+		padding:5px;
+		margin-bottom:20px;
+	}
